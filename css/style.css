@@ -477,9 +477,8 @@ ul {
   background-size: cover;
 }
 .body_bg1 {
-  background:linear-gradient(to left, rgb(0, 0, 0), rgb(255, 255, 255));
-  background-position: center;
-  background-repeat: no-repeat;
+  background: rgb(245,245,249);
+  background: linear-gradient(90deg, rgba(245,245,249,1) 0%, rgba(251,251,252,1) 0%, rgba(252,252,252,1) 0%, rgba(13,141,189,1) 0%, rgba(0,11,13,1) 59%); background-repeat: no-repeat;
   background-size: cover;
 }
 
