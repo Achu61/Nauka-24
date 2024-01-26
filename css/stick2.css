@@ -212,3 +212,17 @@
     color: #ffffff89;
     text-decoration: none;
 }
+.time_table{
+    width: 100%;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    font-size:x-large;
+    background-color:rgba(0, 0, 0, 0.1);
+}
+.time_table th{
+    background-color:rgba(0, 0, 0, 0.2);
+}
+.time_table tr{
+    border-color: rgba(255, 255, 255, 0.1);
+}
